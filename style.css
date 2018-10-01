@@ -108,6 +108,9 @@ hr.light {
     margin-top: .8rem;
     margin-bottom: 1rem;
 }
+footer p {
+    color: #d5d5d5;
+}
 footer a {
     color: #d5d5d5;
 }
